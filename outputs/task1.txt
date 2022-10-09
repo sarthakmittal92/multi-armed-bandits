@@ -1,0 +1,17 @@
+================== Task 1 ==================
+Testcase 1
+UCB               : PASSED. Regret: 30.48
+KL-UCB            : PASSED. Regret: 3.30
+Thompson Sampling : PASSED. Regret: 7.24
+
+Testcase 2
+UCB               : PASSED. Regret: 368.76
+KL-UCB            : PASSED. Regret: 137.00
+Thompson Sampling : PASSED. Regret: 67.36
+
+Testcase 3
+UCB               : PASSED. Regret: 447.28
+KL-UCB            : PASSED. Regret: 118.30
+Thompson Sampling : PASSED. Regret: 70.60
+
+Time elapsed: 75.28 seconds

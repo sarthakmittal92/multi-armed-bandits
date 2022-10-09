@@ -1,0 +1,11 @@
+https://jamesrledoux.com/algorithms/bandit-algorithms-epsilon-ucb-exp-python/
+https://www.hackdeploy.com/multi-armed-bandit-python-example-using-ucb/
+https://github.com/Mathegineer/batched-bandit/blob/master/UCB1.m
+https://arxiv.org/pdf/1505.00369.pdf
+https://towardsdatascience.com/solving-the-multi-armed-bandit-problem-b72de40db97c
+
+https://www.geeksforgeeks.org/upper-confidence-bound-algorithm-in-reinforcement-learning/
+http://proceedings.mlr.press/v19/garivier11a/garivier11a.pdf
+https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf
+https://en.wikipedia.org/wiki/Beta_distribution
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.64.4085&rep=rep1&type=pdf

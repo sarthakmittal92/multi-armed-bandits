@@ -1,0 +1,11 @@
+================== Task 2 ==================
+Testcase 1
+Batched Algorithm: PASSED. Regret: 63.98
+
+Testcase 2
+Batched Algorithm: PASSED. Regret: 83.64
+
+Testcase 3
+Batched Algorithm: PASSED. Regret: 110.98
+
+Time elapsed: 19.31 seconds

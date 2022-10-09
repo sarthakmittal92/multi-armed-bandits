@@ -1,0 +1,11 @@
+================== Task 3 ==================
+Testcase 1
+Many Arms Algorithm: PASSED. Regret: 145.06
+
+Testcase 2
+Many Arms Algorithm: PASSED. Regret: 209.98
+
+Testcase 3
+Many Arms Algorithm: PASSED. Regret: 342.40
+
+Time elapsed: 4.59 seconds
